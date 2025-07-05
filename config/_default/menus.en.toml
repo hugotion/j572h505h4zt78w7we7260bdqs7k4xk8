@@ -2,18 +2,18 @@
 
 # main menu
 [[main]]
-name = "HOMIE"
+name = "ASD"
 url = ""
 weight = 1
 
 [[main]]
-name = "About"
+name = "ABT WHAT?!?!?"
 url = "about/"
 weight = 2
 
 
 [[main]]
-name = "Blog"
+name = "BWOG"
 url = "blog/"
 weight = 3
 
@@ -24,7 +24,7 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Blog Details"
+  name = "AHAHA"
   url = "blog/post-1/"
   weight = 1
 
