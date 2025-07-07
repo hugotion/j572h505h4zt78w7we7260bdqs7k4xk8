@@ -83,7 +83,7 @@ intro_video:
   title: Built exclusively for you
   video_thumbnail: images/video-popup.jpg
   video_url: 'https://www.youtube.com/embed/dyZcRRWiuuw'
-sha: 4bb0515afd6e8332b0479dac26d872fe400852c0
+sha: 6e5437e2db505385b3529b6df69e6410da238f45
 testimonials:
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br>
@@ -130,5 +130,6 @@ testimonials:
         Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta
         arcu congue lectudbfs pellentesque vitae dolor faucibus
   title: Don't take our word for it
+title: Vovamenuda
 ---
 
