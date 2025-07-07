@@ -18,6 +18,7 @@ brands_carousel:
     - images/brands/06-colored.png
     - images/brands/05-colored.png
   enable: true
+featured_image: images/Test Image-1751864784457-b3gbun.jpg
 features:
   description: >-
     Lorem ipsum dolor sit amet, consecteturre adipiscing elit. Morbi egestas
@@ -82,7 +83,7 @@ intro_video:
   title: Built exclusively for you
   video_thumbnail: images/video-popup.jpg
   video_url: 'https://www.youtube.com/embed/dyZcRRWiuuw'
-sha: 1ab9cf0d4026b6afe0688e2f81fcd1c769ecc73d
+sha: 0cfdd409ddc482524a768f89ec665d1e29fdce68
 testimonials:
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br>
