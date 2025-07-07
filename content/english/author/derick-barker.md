@@ -1,6 +1,6 @@
 ---
 email: sojon.themefisher@gmail.com
-featured_image: images/author/derick.jpg
+image: images/author/derick.jpg
 sha: 1bc32f33b43319901318b76aa1b8b66f6e2a7b18
 social:
   - icon: lab la-linkedin-in
