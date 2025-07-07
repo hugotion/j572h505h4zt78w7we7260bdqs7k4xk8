@@ -65,8 +65,8 @@ our_team:
       image: images/about/team/03.jpg
       name: Ortrin Okaster
   title: The People Behind
-sha: 41ec5c871ef5191e84d262083a4c03ad9fad6ea2
-title: What is this about?
+sha: 13f01320a86f19f1feeaf8b4dd3a18c7c25c5cc6
+title: What the helly?
 what_we_do:
   block:
     - content: >-
