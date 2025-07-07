@@ -83,7 +83,7 @@ intro_video:
   title: Built exclusively for you
   video_thumbnail: images/video-popup.jpg
   video_url: 'https://www.youtube.com/embed/dyZcRRWiuuw'
-sha: 0cfdd409ddc482524a768f89ec665d1e29fdce68
+sha: 4bb0515afd6e8332b0479dac26d872fe400852c0
 testimonials:
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br>
